@@ -1,7 +1,24 @@
 # 📊 My GitHub Stats
 
-<!-- Øverste kort: Customizing stats card med GitHub logo i stedet for rank -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&rank_icon=github&hide_rank=true&custom_title=GitHub%20Stats&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117)
+<table>
+<tr>
+<td>
 
-<!-- Nederste kort: Top languages med skjulte progress bars -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
+<!-- Stats card -->
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&rank_icon=github&hide_rank=true&custom_title=GitHub%20Stats&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" height="180px"/>
+
+<!-- Top langs -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" height="180px"/>
+
+</td>
+<td>
+
+### 🚀 Tech stack & tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+</td>
+</tr>
+</table>
