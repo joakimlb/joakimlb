@@ -15,8 +15,8 @@
 </td>
 <td>
 
-<!-- Top langs card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_progress=true&title_color=00ff00&text_color=00ff00&bg_color=0,0d1117,003300&border_color=00ff00&border_radius=10" height="200" />
+<!-- Top langs card (compact layout) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=00ff00&text_color=00ff00&bg_color=0,0d1117,003300&border_color=00ff00&border_radius=10" height="200" />
 
 </td>
 </tr>
