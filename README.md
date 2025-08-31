@@ -5,13 +5,26 @@
 <td>
 
 <!-- Stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=joakimlb&show_icons=true&rank_icon=github&hide_rank=true&custom_title=GitHub%20Stats&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" height="180px"/>
-
-<!-- Top langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra
+&show_icons=true
+&rank_icon=github
+&hide_rank=true
+&custom_title=GitHub%20Stats
+&title_color=00ff00
+&icon_color=00ff00
+&text_color=00ff00
+&bg_color=0,0d1117,003300" height="200px"/>
 
 </td>
 <td>
+
+<!-- Top langs card (same height as stats card) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
+&layout=compact
+&hide_progress=true
+&title_color=00ff00
+&text_color=00ff00
+&bg_color=0,0d1117,003300" height="200px"/>
 
 ### 🚀 Tech stack & tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
