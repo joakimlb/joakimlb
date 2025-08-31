@@ -26,6 +26,9 @@
 &text_color=00ff00
 &bg_color=0,0d1117,003300" height="200px"/>
 
+</td>
+</tr>
+
 ### 🚀 Tech stack & tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
