@@ -10,13 +10,13 @@
 <td>
 
 <!-- Stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=joakimlb&show_icons=true&rank_icon=github&hide_rank=true&custom_title=GitHub%20Stats&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=0,0d1117,332b00&border_color=FFD700&border_radius=10" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&rank_icon=github&hide_rank=true&custom_title=GitHub%20Stats&title_color=FFD700&icon_color=FFD700&text_color=FFD700&bg_color=0,0d1117,332b00&border_color=FFD700&border_radius=10" height="200" />
 
 </td>
 <td>
 
 <!-- Top langs card (compact layout) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joakimlb&layout=compact&title_color=FFD700&text_color=FFD700&bg_color=0,0d1117,332b00&border_color=FFD700&border_radius=10" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=FFD700&text_color=FFD700&bg_color=0,0d1117,332b00&border_color=FFD700&border_radius=10" height="200" />
 
 </td>
 </tr>
