@@ -1,8 +1,6 @@
-# Welcome to my GitHub
+# Welcome to my GitHub :)
 
-# Backend developer focused on system design and infrastructure.
-# Experience with Python, Java, JavaScript/TypeScript, React, REST APIs, databases and cloud technologies.
-# Computer Science graduate from Erhvervsakademi København.
+### Backend developer focused on system design and infrastructure. Experience with Python, Java, JavaScript/TypeScript, React, REST APIs, databases and cloud technologies. Computer Science graduate from Erhvervsakademi København.
 
 ### Tech stack & tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
