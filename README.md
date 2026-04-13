@@ -1,4 +1,4 @@
-# Hello I'm Joakim Bloch
+# Hello
 
 ### Backend developer focused on system design and infrastructure.
 
@@ -10,4 +10,4 @@ Computer Science graduate from Erhvervsakademi København (EK).
 #### Interested in scalable systems, API design and AI-driven workflows.
 
 ### Tech stack & tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,jquery,vue,java,python,git,mysql,postgres,docker,azure,gcp,figma,linux,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,python,git,mysql,postgres,docker,azure,gcp,figma,linux,supabase)](https://skillicons.dev)
