@@ -1,4 +1,4 @@
-# Hello
+# Welcome to my GitHub profile
 
 #### Backend developer focused on system design and infrastructure.
 
