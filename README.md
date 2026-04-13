@@ -10,4 +10,4 @@ Computer Science graduate from Erhvervsakademi København (EK).
 #### Interested in scalable systems, API design and AI-driven workflows.
 
 ### Tech stack & tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,python,git,mysql,postgres,docker,azure,gcp,figma,linux,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,python,docker,git,mysql,postgres,azure,gcp,figma,linux,supabase)](https://skillicons.dev)
