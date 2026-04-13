@@ -1,9 +1,13 @@
-# Welcome to my GitHub
+# Hello I'm Joakim Bloch
 
-### Backend developer focused on system design and infrastructure. Experience with Python, Java, JavaScript/TypeScript, React, REST APIs, databases and cloud technologies. Computer Science graduate from Erhvervsakademi København.
+### Backend developer focused on system design and infrastructure.
+
+Experience with Python, Java, JavaScript/TypeScript, React, REST APIs, databases and cloud technologies.
+Computer Science graduate from Erhvervsakademi København (EK).
+
+#### Currently building cross-platform (Android/iOS) mobile apps using React Native and Supabase @ HEEY Studio
+
+#### Interested in scalable systems, API design and AI-driven workflows.
 
 ### Tech stack & tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,jquery,vue,java,python,git,mysql,postgres,docker,azure,gcp,figma,linux,supabase)](https://skillicons.dev)
