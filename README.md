@@ -6,7 +6,7 @@
 - ##### Exploring new technologies/languages
 
 ### My tech-stack & primary tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,spring,maven,hibernate,python,githubactions,docker,git,mysql,postgres,azure,gcp,aws,html,css,figma,linux,supabase,vercel,nextjs,nodejs,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,spring,maven,hibernate,python,github,githubactions,docker,git,mysql,postgres,azure,gcp,aws,html,css,figma,linux,supabase,vercel,nextjs,nodejs,swift,arch,bash,fastapi,firebase,kotlin,npm,php,redis,stackoverflow)](https://skillicons.dev)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joakim-l-bloch/)
