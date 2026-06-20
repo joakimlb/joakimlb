@@ -1,8 +1,19 @@
 ## Welcome to my GitHub profile
-
 #### Full-stack & mobile dev
-##### Currently building Android and IOS apps @ HEEY Studio
-##### Currently building Android and IOS apps @ HEEY Studio
+##### Currently building Android and iOS apps @ HEEY Studio
 
-### My tech-stack & primary tools
+Bygger ting fra mobil til backend – mest optaget af at få det til at virke i produktion, ikke kun i demoen.
+
+### 🚧 Currently building
+- 📱 **DaiBrief** – React Native/Expo app, [kort beskrivelse af hvad den gør]
+- 🔍 Udforsker backend dev med Java/Spring Boot
+
+### 🛠️ My tech-stack & primary tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,python,docker,git,mysql,postgres,azure,gcp,aws,html,css,figma,linux,supabase,vercel,nextjs,nodejs,swift)](https://skillicons.dev)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIT-BRUGERNAVN&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIT-BRUGERNAVN&layout=compact&theme=dark&hide_border=true)
+
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](DIN-LINKEDIN-URL)
