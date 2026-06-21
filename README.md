@@ -2,7 +2,7 @@
 #### Full-stack & mobile dev
 
 ### Currently
-- ##### Currently building Android and iOS apps @ HEEY Studio
+- ##### Building Android and iOS apps @ HEEY Studio
 - ##### Exploring new technologies/languages
 
 ### My tech-stack & primary tools
