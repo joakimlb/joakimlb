@@ -2,7 +2,7 @@
 
 ### Currently
 - ##### Building Android and iOS apps @ HEEY Studio
-- ##### Exploring new tools/technologies/languages
+- ##### Exploring new tools/technologies/languages/frameworks
 
 ### My tech-stack & primary tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,html,css,spring,maven,hibernate,fastapi,mysql,postgres,redis,firebase,supabase,docker,git,github,githubactions,azure,gcp,aws,linux,arch,bash,npm,figma,vercel,stackoverflow)](https://skillicons.dev)
