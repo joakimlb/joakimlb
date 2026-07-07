@@ -1,9 +1,9 @@
 ## Full-stack & mobile dev
 
-### Currently
-- ##### Building Android and iOS apps @ HEEY Studio
-- ##### Exploring new tools/technologies/languages/frameworks
-- ##### Contributing to open-source projects and software
+## Currently
+- #### Building Android and iOS apps @ HEEY Studio
+- #### Exploring new tools/technologies/languages/frameworks
+- #### Contributing to open-source projects and software
 
 ### My tech-stack & primary tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,html,css,spring,maven,hibernate,fastapi,mysql,postgres,redis,firebase,supabase,docker,git,github,githubactions,azure,gcp,aws,linux,arch,bash,npm,figma,vercel,stackoverflow)](https://skillicons.dev)
