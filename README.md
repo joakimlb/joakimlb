@@ -1,7 +1,7 @@
 ## Full-stack & mobile dev
 
 ## Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=js,ts,java,python,html,css,spring,maven,hibernate,fastapi,mysql,postgres,redis,firebase,supabase,docker,azure,aws,gcp,vercel)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,spring,maven,hibernate,fastapi,mysql,postgres,redis,firebase,supabase,docker,azure,aws,gcp,vercel)](https://skillicons.dev)
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,githubactions,linux,arch,bash,npm,figma,stackoverflow)](https://skillicons.dev)
